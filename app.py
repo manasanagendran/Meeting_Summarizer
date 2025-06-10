@@ -1,3 +1,5 @@
+# This app helps in summarizing the meeting transript either in the form of text file or audio file
+
 import streamlit as st
 from openai import OpenAI
 #from pydub import AudioSegment
